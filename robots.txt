@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vohbailee.jiguoling.com/sitemap.xml
